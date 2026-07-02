@@ -1,3 +1,4 @@
+<img src="./animated-banner.svg" width="100%"/>
 <div align="center">
 
 <!-- Matrix-style animated banner -->
