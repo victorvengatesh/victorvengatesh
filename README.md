@@ -1,11 +1,10 @@
-<img src="./animated-banner.svg" width="100%"/>
 <div align="center">
 
 <!-- Matrix-style animated banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0F172A,100:00FF41&height=220&section=header&text=VENKY&fontSize=65&fontColor=00FF41&animation=twinkling&fontAlignY=35&desc=AI%20%26%20Machine%20Learning%20Engineer&descAlignY=58&descColor=00F0FF&descSize=18" width="100%"/>
 
 <!-- Terminal-style typing intro -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=%3E+whoami;Venky+-+AI+%26+ML+Engineer;%3E+status;Building+with+Python+%2B+TensorFlow;%3E+mode;Vibecoding+with+Claude" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=Venky+-+AI+%26+ML+Engineer;Building+with+Python+%2B+TensorFlow;Vibecoding+with+Claude" alt="Typing SVG" />
 
 <br/>
 
