@@ -1,0 +1,100 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">M. Victor Vengatesh</title>
+  <desc id="desc">Animated Japanese-inspired technology banner for an AI and machine-learning developer.</desc>
+  <defs>
+    <linearGradient id="sky" x1="80" y1="0" x2="1120" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#090B18"/>
+      <stop offset=".45" stop-color="#17132B"/>
+      <stop offset="1" stop-color="#32162A"/>
+    </linearGradient>
+    <linearGradient id="sun" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#FFF1DA"/>
+      <stop offset="1" stop-color="#FF7D91"/>
+    </linearGradient>
+    <linearGradient id="gate" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#FF6B72"/>
+      <stop offset="1" stop-color="#A11235"/>
+    </linearGradient>
+    <linearGradient id="text" x1="270" y1="110" x2="950" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF7ED"/>
+      <stop offset=".58" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#FFB1BC"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="soft"><feGaussianBlur stdDeviation="24"/></filter>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" stroke="#FFB1BC" stroke-opacity=".055"/>
+    </pattern>
+    <style>
+      .star { animation: pulse 3.2s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+      .s2 { animation-delay: .8s; } .s3 { animation-delay: 1.6s; }
+      .petal { animation: drift 7s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+      .p2 { animation-delay: -2s; } .p3 { animation-delay: -4.5s; } .p4 { animation-delay: -6s; }
+      .scan { animation: scan 6s ease-in-out infinite; }
+      @keyframes pulse { 0%,100% { opacity:.25; transform:scale(.7) } 50% { opacity:1; transform:scale(1.25) } }
+      @keyframes drift { 0%,100% { transform:translate(0,0) rotate(0deg); opacity:.25 } 45% { opacity:.85 } 50% { transform:translate(18px,22px) rotate(120deg) } }
+      @keyframes scan { 0%,100% { transform:translateX(-900px); opacity:0 } 35%,55% { opacity:.22 } 70% { transform:translateX(900px); opacity:0 } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="url(#sky)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+  <ellipse cx="952" cy="115" rx="106" ry="106" fill="#FF6684" opacity=".14" filter="url(#soft)"/>
+  <circle cx="952" cy="115" r="68" fill="url(#sun)" opacity=".95" filter="url(#glow)"/>
+  <circle cx="952" cy="115" r="55" fill="#FFE6DE" opacity=".23"/>
+
+  <g opacity=".8">
+    <circle class="star" cx="90" cy="72" r="2.5" fill="#FFE3C4"/>
+    <circle class="star s2" cx="185" cy="112" r="1.8" fill="#FF9BAA"/>
+    <circle class="star s3" cx="1080" cy="58" r="2.3" fill="#FFF4E8"/>
+    <circle class="star s2" cx="1135" cy="177" r="1.7" fill="#FF9BAA"/>
+    <circle class="star s3" cx="770" cy="54" r="1.8" fill="#FFF4E8"/>
+  </g>
+
+  <g class="petal" fill="#FF9BAD">
+    <path d="M122 65c12-8 22-3 21 8-9 6-17 4-21-8Z"/>
+    <path d="M145 86c8-12 19-11 23-1-6 9-15 10-23 1Z" opacity=".65"/>
+  </g>
+  <g class="petal p2" fill="#FFD0D7">
+    <path d="M1065 221c10-9 21-6 22 5-8 7-17 6-22-5Z"/>
+  </g>
+  <g class="petal p3" fill="#FF839B">
+    <path d="M810 78c11-6 20-1 18 9-9 5-16 2-18-9Z"/>
+  </g>
+  <g class="petal p4" fill="#FFD0D7">
+    <path d="M245 272c9-10 20-8 22 3-7 8-16 8-22-3Z"/>
+  </g>
+
+  <path d="M0 295C135 256 243 292 350 274C479 252 564 304 696 279C843 251 989 267 1200 223V360H0V295Z" fill="#0A0B14" opacity=".74"/>
+  <path d="M0 321C151 291 273 319 417 299C590 274 697 328 848 293C980 263 1087 286 1200 264V360H0V321Z" fill="#070810"/>
+
+  <g transform="translate(76 174)">
+    <path d="M0 46h202l-13 15H13L0 46Z" fill="url(#gate)"/>
+    <path d="M18 17h166l12 13H6l12-13Z" fill="#E83E58"/>
+    <path d="M28 0h146l-8 12H36L28 0Z" fill="#FF7585"/>
+    <rect x="35" y="59" width="23" height="118" rx="3" fill="url(#gate)"/>
+    <rect x="144" y="59" width="23" height="118" rx="3" fill="url(#gate)"/>
+    <rect x="51" y="76" width="102" height="13" fill="#B11638"/>
+    <path d="M23 177h48l-8 8H16l7-8ZM132 177h48l7 8h-47l-8-8Z" fill="#571127"/>
+  </g>
+
+  <rect class="scan" x="280" y="88" width="520" height="140" rx="70" fill="#FF90A2" filter="url(#soft)"/>
+
+  <g>
+    <text x="330" y="151" fill="#FF8297" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17" font-weight="700" letter-spacing="4">AI • SOFTWARE • DESIGN</text>
+    <text x="326" y="211" fill="url(#text)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="54" font-weight="800" letter-spacing="-1.5">M. VICTOR VENGATESH</text>
+    <text x="330" y="253" fill="#D5C5D0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21" font-weight="500" letter-spacing=".8">Building intelligent products with purpose.</text>
+    <rect x="330" y="274" width="84" height="4" rx="2" fill="#FF5F7B"/>
+    <rect x="424" y="274" width="32" height="4" rx="2" fill="#FBBF24" opacity=".85"/>
+  </g>
+
+  <g transform="translate(1080 285)" opacity=".55">
+    <path d="M0 20h45M22.5-2v44" stroke="#FFD6DC" stroke-width="1"/>
+    <circle cx="22.5" cy="20" r="14" stroke="#FFD6DC"/>
+  </g>
+
+  <rect x=".75" y=".75" width="1198.5" height="358.5" rx="27.25" stroke="#FF8EA0" stroke-opacity=".25" stroke-width="1.5"/>
+</svg>
