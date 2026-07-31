@@ -61,7 +61,7 @@ Analyses resumes against job requirements and produces structured, evidence-base
 <tr>
 <td width="50%" valign="top">
 
-### ⛩️ [Interactive Portfolio](https://github.com/victorvengatesh/victor-space-portfolio)
+### ⛩️ [Interactive Portfolio](https://github.com/victorvengatesh/VICTOR-VENGATESH-PLOTFOLIO)
 
 A cinematic Japanese-temple portfolio with scroll-driven storytelling and polished motion.
 
