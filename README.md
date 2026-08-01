@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/victorvengatesh/victorvengatesh/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/victorvengatesh/victorvengatesh/main/light.svg">
-  <img width="100%" src="https://raw.githubusercontent.com/victorvengatesh/victorvengatesh/main/light.svg" alt="M. Victor Vengatesh — AI and Machine Learning">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/victorvengatesh/victorvengatesh/main/dark.svg?v=7286fbbc">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/victorvengatesh/victorvengatesh/main/light.svg?v=4a881a8f">
+  <img width="100%" src="https://raw.githubusercontent.com/victorvengatesh/victorvengatesh/main/light.svg?v=4a881a8f" alt="M. Victor Vengatesh — AI and Machine Learning">
 </picture>
 
 <br />
