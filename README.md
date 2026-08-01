@@ -134,9 +134,9 @@ A multi-agent legal-contract analysis concept that turns dense clauses into stru
 ### Contribution Journey
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/victorvengatesh/victorvengatesh/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/victorvengatesh/victorvengatesh/output/github-contribution-grid-snake.svg" />
-  <img width="100%" alt="Contribution snake animation" src="https://raw.githubusercontent.com/victorvengatesh/victorvengatesh/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/victorvengatesh/victorvengatesh/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/victorvengatesh/victorvengatesh/output/github-snake.svg" />
+  <img width="100%" alt="Contribution snake animation" src="https://raw.githubusercontent.com/victorvengatesh/victorvengatesh/output/github-snake.svg" />
 </picture>
 
 </div>
