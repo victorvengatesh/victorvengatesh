@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/victorvengatesh/victorvengatesh/main/dark.svg?v=a7549153">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/victorvengatesh/victorvengatesh/main/light.svg?v=4d6bb754">
-  <img width="100%" src="https://raw.githubusercontent.com/victorvengatesh/victorvengatesh/main/light.svg?v=4d6bb754" alt="M. Victor Vengatesh silver V emblem">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/victorvengatesh/victorvengatesh/main/dark.svg?v=55c1eedd">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/victorvengatesh/victorvengatesh/main/light.svg?v=2739a2a3">
+  <img width="100%" src="https://raw.githubusercontent.com/victorvengatesh/victorvengatesh/main/light.svg?v=2739a2a3" alt="M. Victor Vengatesh silver V emblem">
 </picture>
 
 <br />
